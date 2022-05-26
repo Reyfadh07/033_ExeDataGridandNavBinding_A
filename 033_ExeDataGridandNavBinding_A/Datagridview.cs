@@ -39,5 +39,11 @@ namespace _033_ExeDataGridandNavBinding_A
             //Membuat data bagian jenis kelamin menjadi center
             this.dataGridView1.Columns[3].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            new Mainmenu().Show();
+            this.Hide();
+        }
     }
 }

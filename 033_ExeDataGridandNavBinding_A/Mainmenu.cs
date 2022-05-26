@@ -40,7 +40,14 @@ namespace _033_ExeDataGridandNavBinding_A
 
         private void pictureBox1_Click_1(object sender, EventArgs e)
         {
-            
+            new Datagridview().Show();
+            this.Hide();
+
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

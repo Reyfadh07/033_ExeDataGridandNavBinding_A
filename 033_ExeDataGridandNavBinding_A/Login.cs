@@ -43,7 +43,7 @@ namespace _033_ExeDataGridandNavBinding_A
         {
             if (txusername.Text == Username && txpass.Text == Password)
             {
-                new MainMenu().Show();
+                new Mainmenu().Show();
                 this.Hide();
             }
             else
