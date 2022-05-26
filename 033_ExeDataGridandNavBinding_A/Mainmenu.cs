@@ -47,7 +47,8 @@ namespace _033_ExeDataGridandNavBinding_A
 
         private void pictureBox2_Click(object sender, EventArgs e)
         {
-
+            new Navigationbinding().Show();
+            this.Hide();
         }
     }
 }

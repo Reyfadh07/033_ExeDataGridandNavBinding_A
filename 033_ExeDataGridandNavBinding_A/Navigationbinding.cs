@@ -19,7 +19,8 @@ namespace _033_ExeDataGridandNavBinding_A
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-
+            new Mainmenu().Show();
+            this.Hide();
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)

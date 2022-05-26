@@ -45,5 +45,11 @@ namespace _033_ExeDataGridandNavBinding_A
             new Mainmenu().Show();
             this.Hide();
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            new formDatagrid().Show();
+            this.Hide();
+        }
     }
 }
