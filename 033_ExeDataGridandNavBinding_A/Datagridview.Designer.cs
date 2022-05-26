@@ -141,7 +141,7 @@ namespace _033_ExeDataGridandNavBinding_A
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.Black;
             this.pictureBox1.Image = global::_033_ExeDataGridandNavBinding_A.Properties.Resources.back_icon;
-            this.pictureBox1.Location = new System.Drawing.Point(28, 381);
+            this.pictureBox1.Location = new System.Drawing.Point(2, 381);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(169, 69);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;

@@ -156,6 +156,7 @@ namespace _033_ExeDataGridandNavBinding_A
             // 
             this.txpass.Location = new System.Drawing.Point(250, 302);
             this.txpass.Name = "txpass";
+            this.txpass.PasswordChar = '*';
             this.txpass.Size = new System.Drawing.Size(349, 20);
             this.txpass.TabIndex = 10;
             // 
