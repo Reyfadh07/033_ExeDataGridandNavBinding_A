@@ -48,7 +48,7 @@ namespace _033_ExeDataGridandNavBinding_A
             }
             else
             {
-                MessageBox.Show("Username dan Password Salah. Username = MagarethaWS, Password = Put1414 ");
+                MessageBox.Show("Username dan Password Salah. Username = Raihan, Password = Raihan071201  ");
                 txusername.Clear();
                 txpass.Clear();
                 txusername.Focus();
